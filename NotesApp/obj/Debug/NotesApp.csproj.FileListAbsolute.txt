@@ -1,0 +1,22 @@
+C:\Users\Mariano Macias\source\repos\NotesApp\NotesApp\bin\Debug\NotesApp.exe.config
+C:\Users\Mariano Macias\source\repos\NotesApp\NotesApp\bin\Debug\NotesApp.exe
+C:\Users\Mariano Macias\source\repos\NotesApp\NotesApp\bin\Debug\NotesApp.pdb
+C:\Users\Mariano Macias\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.AssemblyReference.cache
+C:\Users\Mariano Macias\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mariano Macias\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp.Form1.resources
+C:\Users\Mariano Macias\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp.Properties.Resources.resources
+C:\Users\Mariano Macias\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.GenerateResource.cache
+C:\Users\Mariano Macias\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.CoreCompileInputs.cache
+C:\Users\Mariano Macias\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp.exe
+C:\Users\Mariano Macias\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp.pdb
+C:\Users\maria\Desktop\C#\NotesApp-Csharp\NotesApp\bin\Debug\NotesApp.exe.config
+C:\Users\maria\Desktop\C#\NotesApp-Csharp\NotesApp\bin\Debug\NotesApp.exe
+C:\Users\maria\Desktop\C#\NotesApp-Csharp\NotesApp\bin\Debug\NotesApp.pdb
+C:\Users\maria\Desktop\C#\NotesApp-Csharp\NotesApp\obj\Debug\NotesApp.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\C#\NotesApp-Csharp\NotesApp\obj\Debug\NotesApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\Desktop\C#\NotesApp-Csharp\NotesApp\obj\Debug\NotesApp.Form1.resources
+C:\Users\maria\Desktop\C#\NotesApp-Csharp\NotesApp\obj\Debug\NotesApp.Properties.Resources.resources
+C:\Users\maria\Desktop\C#\NotesApp-Csharp\NotesApp\obj\Debug\NotesApp.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\C#\NotesApp-Csharp\NotesApp\obj\Debug\NotesApp.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\C#\NotesApp-Csharp\NotesApp\obj\Debug\NotesApp.exe
+C:\Users\maria\Desktop\C#\NotesApp-Csharp\NotesApp\obj\Debug\NotesApp.pdb
